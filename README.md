@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdirisak
 - 👀 I’m interested in engineering problem solving using efficent algorithms 
 - 🌱 I’m currently learning Python/Java 
-- 💞️ I’m looking to collaborate on projects use python/java
+- 💞️ I’m looking to collaborate on projects that use python/java
 - 📫 How to reach me adini2001@gmail.com
 
 <!---
